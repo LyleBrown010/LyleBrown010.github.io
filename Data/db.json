@@ -1,5 +1,5 @@
-{
-    "products":[
+
+    [
         {
             "id": 1 , 
             "image": "https://i.postimg.cc/gXp1NkRr/Mountain-Sweater.jpg", 
@@ -49,4 +49,3 @@
             "quantity": "20"
         }
     ]
-}
