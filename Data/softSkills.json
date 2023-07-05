@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1, 
+        "name": "Time Management",
+        "rating": ""
+    },
+    {
+        "id": 2, 
+        "name": "Team work",
+        "rating": ""
+    },
+    {
+        "id": 3, 
+        "name": "Communication",
+        "rating": ""
+    },
+    {
+        "id": 4, 
+        "name": "Critical Thinking",
+        "rating": ""
+    },
+    {
+        "id": 5, 
+        "name": "Problem-solving",
+        "rating": ""
+    },
+    {
+        "id": 6, 
+        "name": "Ability to Adapt",
+        "rating": ""
+    }
+]
