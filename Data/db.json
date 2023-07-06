@@ -1,51 +1,214 @@
+{
+    "educations": [
+        {
+            "id": "1", 
+            "date": "2023-Present",
+            "name": "Life Choices Coding Academy",
+            "description": "My latest chapter, and the start of something beautiful."
+        },
+        {
+            "id": "2", 
+            "date": "2018 - 2022",
+            "name": "University of Cape Town",
+            "description": "Completed a Bachelors of Social Science, majoring in Informatics and Sociology."
+        },
+        {
+            "id": "3", 
+            "date": "2013 - 2017",
+            "name": "Mondale High School",
+            "description": "Completed the National Senior Certificate."
+        }
+    ],
 
-    [
+    "experiences": [
         {
-            "id": 1 , 
-            "image": "https://i.postimg.cc/gXp1NkRr/Mountain-Sweater.jpg", 
-            "name":"Mountain Jumper",
-            "price":500,
-            "category":"Jumpers", 
-            "quantity": "20"
+            "id": 1,
+            "job-title":"ICT Education Assistant", 
+            "company": "Eastville Primary School",
+            "date": "February 2023- March 2023",
+            "description": "Provided technical support and managed internal ICT systems",
+            "reason-for-leaving": "Joined Life Choices Coding Academy"
         },
         {
-            "id": 2 , 
-            "image": "https://i.postimg.cc/c6sV3C0b/5-Panel-Forest.jpg", 
-            "name":"Forest Hat",
-            "price":250,
-            "category":"Hats", 
-            "quantity": "20"
+            "id": 2,
+            "job-title":"Student Front Desk Assistant", 
+            "company": "Department of Student Affairs, University of Cape Town",
+            "date": "December 2019- December 2020",
+            "description": "Managed the front desk at College House Residence",
+            "reason-for-leaving": "Contracted Ended"
         },
         {
-            "id": 3 , 
-            "image": "https://i.postimg.cc/xXJrdZnj/H-M-Wide-twill-trousers.jpg", 
-            "name":"Twill Trouser",
-            "price":400,
-            "category":"Pants", 
-            "quantity": "20"
+            "id": 3,
+            "job-title":"Mark Checker", 
+            "company": "Western Cape Education Department",
+            "date": "December 2018- December 2021",
+            "description": "Checked and counted Grade 12 answer sheets.",
+            "reason-for-leaving": "Contracted Ended."
         },
         {
-            "id": 4 , 
-            "image": "https://i.postimg.cc/r093bXCj/Rainbow-Sweater.jpg", 
-            "name":"Rainbow Jumper",
-            "price":600,
-            "category":"Jumpers", 
-            "quantity": "20"
+            "id": 4,
+            "job-title":"Sales Assistant", 
+            "company": "Meridian National",
+            "date": "December 2017- January 2018",
+            "description": "Stock unloading and reshelfing at Woolworths.",
+            "reason-for-leaving": "Contracted Ended."
+        }
+    ],
+
+    "projects": [
+        {
+        "id": 1, 
+        "image": "",
+        "name": "BootStrap Portfolio",
+        "description": "",
+        "github": "https://github.com/LyleBrown010/portfolio.git",
+        "netlify": ""
+    },
+    {
+        "id": 2, 
+        "image": "",
+        "name": "eCommerce Store",
+        "description": "",
+        "github": "https://github.com/LyleBrown010/EOMP-Javascript.git",
+        "netlify": ""
+    },
+    {
+        "id": 3, 
+        "image": "",
+        "name": "Currency Converter",
+        "description": "",
+        "github": "https://github.com/LyleBrown010/CurrencyConverter.git",
+        "netlify": ""
+    },
+    {
+        "id": 4, 
+        "image": "",
+        "name": "3 Page eCommerce Website",
+        "description": "",
+        "github": "https://github.com/LyleBrown010/3PageWeb.git",
+        "netlify": ""
+    },
+    {
+        "id": 5, 
+        "image": "",
+        "name": "BMI Calculator",
+        "description": "",
+        "github": "https://github.com/LyleBrown010/bmiCalculator.git",
+        "netlify": ""
+    },
+    {
+        "id": 6, 
+        "image": "",
+        "name": "First Something from Portfolio",
+        "description": "",
+        "github": "",
+        "netlify": ""
+    }
+    ],
+
+    "skills": [
+        {
+            "id": 1, 
+            "name": "HTML",
+            "rating": "Advanced"
         },
         {
-            "id": 5 , 
-            "image": "https://i.postimg.cc/Hrfq8tkw/5-panel-north.jpg", 
-            "name":"North Hat",
-            "price":300,
-            "category":"Hats", 
-            "quantity": "20"
+            "id": 2, 
+            "name": "CSS",
+            "rating": "Advanced"
         },
         {
-            "id": 6 , 
-            "image": "https://i.postimg.cc/HVLDqxNy/image.jpg", 
-            "name":"Tree Legs",
-            "price":400,
-            "category":"Pants", 
-            "quantity": "20"
+            "id": 3, 
+            "name": "BootStrap",
+            "rating": "Advanced"
+        },
+        {
+            "id": 4, 
+            "name": "Vue.Js",
+            "rating": "Intermediate"
+        },
+        {
+            "id": 5, 
+            "name": "JavaScript",
+            "rating": "Intermediate"
+        }   
+    ],
+
+    "softSkills": [
+        {
+            "id": 1, 
+            "name": "Time Management",
+            "rating": "Advanced"
+        },
+        {
+            "id": 2, 
+            "name": "Team work",
+            "rating": "Expert"
+        },
+        {
+            "id": 3, 
+            "name": "Communication",
+            "rating": "Advanced"
+        },
+        {
+            "id": 4, 
+            "name": "Critical Thinking",
+            "rating": "Advanced"
+        },
+        {
+            "id": 5, 
+            "name": "Problem-solving",
+            "rating": "Advanced"
+        },
+        {
+            "id": 6, 
+            "name": "Ability to Adapt",
+            "rating": "Expert"
+        }
+    ],
+
+    "testimonials": [
+        {
+            "id":1, 
+            "image": "https://i.postimg.cc/RZF6BhK6/C12-Taahirah-Ismail-1-crop-square.jpg",
+            "name": "Taahirah Ismail",
+            "relation": "Colleague",
+            "message": "Lyle is genuinely one of the best people I know. He is constantly pushing himself to do better and works hard to achieve his goals. He is a great colleague and friend to have around, and I can't wait to see him flourish in this field." 
+        },
+        {
+            "id":2, 
+            "image": "https://i.postimg.cc/NMdZ4xYN/C12-Cheslyn-Herman-1.jpg",
+            "name": "Cheslyn Herman",
+            "relation": "Colleague",
+            "message": "Within the time that I have worked with Lyle, I can honestly say that he is an amazing individual to have in ones team. His quirky personality and charms brings out the best qualities in each of his teammates. They say pressure makes diamonds and he is definitely a diamond." 
+        },
+        {
+            "id":3, 
+            "image": "https://i.postimg.cc/MKzf9dGY/ethan.jpg",
+            "name": "Ethan Lesar",
+            "relation": "Colleague",
+            "message": "In my interactions with him, I have found him to be both exceptionally helpful and intelligent. His ability to quickly understand complex issues and offer practical solutions is truly impressive. His willingness to assist his colleagues with their tasks and his positive attitude makes him a valuable member of the team. I highly recommend him to anyone looking for a knowledgeable and supportive colleague." 
+        },
+        {
+            "id":4, 
+            "image": "",
+            "name": "",
+            "relation": "Colleague",
+            "message": "" 
+        },
+        {
+            "id":5, 
+            "image": "https://i.postimg.cc/fyNSnvfD/Abdoelmaaliek-Samaai.jpg",
+            "name": "Abdoel-Maaliek Samaai",
+            "relation": "Colleague" ,
+            "message": "He is a very vibrant person. Who love spending time with friends and is not to face a challenge head on. He has the problem solving skills. He helps when others do need his help. He is caring and a great person to have as a friend." 
+        },
+        {
+            "id":6, 
+            "image": "https://i.postimg.cc/VkVSLwW7/jamie.jpg",
+            "name": "Jamie-Lee Kinnear",
+            "relation": "Team Lead",
+            "message": "Lyle is a remarkable programmer and has an analytical approach to problem solving. He is a hardworking individual and dedicated to his work. He is a great peer and a team player. He show's initiative and I believe he would be a valuable asset to any company that would be lucky to have him." 
         }
     ]
+}
