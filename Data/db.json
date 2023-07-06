@@ -58,7 +58,7 @@
     "projects": [
         {
         "id": 1, 
-        "image": "",
+        "image": "https://i.postimg.cc/Xrj8Xt3c/portfolio.png",
         "name": "BootStrap Portfolio",
         "description": "",
         "github": "https://github.com/LyleBrown010/portfolio.git",
@@ -66,7 +66,7 @@
     },
     {
         "id": 2, 
-        "image": "",
+        "image": "https://i.postimg.cc/7fmB1qKQ/e-Commerce.png",
         "name": "eCommerce Store",
         "description": "",
         "github": "https://github.com/LyleBrown010/EOMP-Javascript.git",
@@ -74,7 +74,7 @@
     },
     {
         "id": 3, 
-        "image": "",
+        "image": "https://i.postimg.cc/7bzXRgm7/currency-converter.png",
         "name": "Currency Converter",
         "description": "",
         "github": "https://github.com/LyleBrown010/CurrencyConverter.git",
@@ -82,7 +82,7 @@
     },
     {
         "id": 4, 
-        "image": "",
+        "image": "https://i.postimg.cc/zfPN8Nqj/Screenshot-2023-07-06-153120.png",
         "name": "3 Page eCommerce Website",
         "description": "",
         "github": "https://github.com/LyleBrown010/3PageWeb.git",
@@ -90,7 +90,7 @@
     },
     {
         "id": 5, 
-        "image": "",
+        "image": "https://i.postimg.cc/dZGBTYLn/bmi.png",
         "name": "BMI Calculator",
         "description": "",
         "github": "https://github.com/LyleBrown010/bmiCalculator.git",
@@ -98,7 +98,7 @@
     },
     {
         "id": 6, 
-        "image": "",
+        "image": "https://i.postimg.cc/pptkMp6S/calculator.png",
         "name": "Calculator",
         "description": "",
         "github": "https://github.com/LyleBrown010/calculator-attempt1.git",
