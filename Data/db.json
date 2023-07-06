@@ -27,7 +27,7 @@
             "company": "Eastville Primary School",
             "date": "February 2023- March 2023",
             "description": "Provided technical support and managed internal ICT systems",
-            "reason-for-leaving": "Joined Life Choices Coding Academy"
+            "reason": "Joined Life Choices Coding Academy"
         },
         {
             "id": 2,
@@ -35,7 +35,7 @@
             "company": "Department of Student Affairs, University of Cape Town",
             "date": "December 2019- December 2020",
             "description": "Managed the front desk at College House Residence",
-            "reason-for-leaving": "Contracted Ended"
+            "reason": "Contracted Ended"
         },
         {
             "id": 3,
@@ -43,7 +43,7 @@
             "company": "Western Cape Education Department",
             "date": "December 2018- December 2021",
             "description": "Checked and counted Grade 12 answer sheets.",
-            "reason-for-leaving": "Contracted Ended."
+            "reason": "Contracted Ended."
         },
         {
             "id": 4,
@@ -51,7 +51,7 @@
             "company": "Meridian National",
             "date": "December 2017- January 2018",
             "description": "Stock unloading and reshelfing at Woolworths.",
-            "reason-for-leaving": "Contracted Ended."
+            "reason": "Contracted Ended."
         }
     ],
 
