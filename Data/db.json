@@ -58,7 +58,7 @@
     "projects": [
         {
         "id": 1, 
-        "image": "https://i.postimg.cc/Xrj8Xt3c/portfolio.png",
+        "image": "https://i.postimg.cc/rw049xKS/portfolio.png",
         "name": "BootStrap Portfolio",
         "description": "This is my first Portfolio, made using HTML, CSS and BootStrap",
         "github": "https://github.com/LyleBrown010/portfolio.git",
