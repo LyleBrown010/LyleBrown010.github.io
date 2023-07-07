@@ -76,7 +76,7 @@
         "id": 3, 
         "image": "https://i.postimg.cc/7bzXRgm7/currency-converter.png",
         "name": "Currency Converter",
-        "description": "Lorem Lorem",
+        "description": "Currency Converter using JavaScript",
         "github": "https://github.com/LyleBrown010/CurrencyConverter.git",
         "netlify": "https://mellow-capybara-db8745.netlify.app"
     },
@@ -84,7 +84,7 @@
         "id": 4, 
         "image": "https://i.postimg.cc/zfPN8Nqj/Screenshot-2023-07-06-153120.png",
         "name": "3 Page eCommerce Website",
-        "description": "lorem8",
+        "description": "eCommerce Website made using JavaScript",
         "github": "https://github.com/LyleBrown010/3PageWeb.git",
         "netlify": "https://radiant-buttercream-0481c1.netlify.app"
     },
@@ -92,7 +92,7 @@
         "id": 5, 
         "image": "https://i.postimg.cc/dZGBTYLn/bmi.png",
         "name": "BMI Calculator",
-        "description": "lorem8",
+        "description": "BMI caculator using JavaScript",
         "github": "https://github.com/LyleBrown010/bmiCalculator.git",
         "netlify": "https://thunderous-seahorse-f24664.netlify.app"
     },
@@ -100,7 +100,7 @@
         "id": 6, 
         "image": "https://i.postimg.cc/pptkMp6S/calculator.png",
         "name": "Calculator",
-        "description": "lorem8",
+        "description": "Calculator using Javascript",
         "github": "https://github.com/LyleBrown010/calculator-attempt1.git",
         "netlify": "https://meek-malabi-2a38f9.netlify.app"
     }
